@@ -10,6 +10,6 @@ provides conversions between:
 * sols
 * solar longitude
 
-If you're interested, check out the `documentation <https://kconnour.github.io/mars_time/>`_
+If you're interested, check out the `documentation <https://marek-slipski.github.io/mars_time/>`_
 
 Feedback is welcome. Feel free to raise an issue if you find a bug or simply want to request a feature.
