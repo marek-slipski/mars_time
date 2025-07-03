@@ -1,5 +1,5 @@
-.. image:: https://github.com/kconnour/mars_time/workflows/CI/badge.svg?branch=main
-     :target: https://github.com/kconnour/mars_time/actions?workflow=CI
+.. image:: https://github.com/marek-slipski/mars_time/workflows/CI/badge.svg?branch=main
+     :target: https://github.com/marek-slipski/mars_time/actions?workflow=CI
      :alt: CI Status
 
 mars_time is a package for converting between Earth and Mars times. It aims to be a "datetime" equivalent for Mars and

@@ -31,7 +31,7 @@ exclude_patterns = []
 
 html_theme = 'pydata_sphinx_theme'
 html_theme_options = {
-    "github_url": "https://github.com/kconnour/mars_time",
+    "github_url": "https://github.com/marek-slipski/mars_time",
     "collapse_navigation": True,
 }
 
