@@ -4,3 +4,4 @@ venv
 .pytest_cache
 .tox
 *.egg-info
+.DS_Store
