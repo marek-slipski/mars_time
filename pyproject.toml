@@ -10,7 +10,7 @@ dependencies = [
     "scipy>=1.13.1",
 ]
 
-[dependency-groups]
+[project.optional-dependencies]
 dev = [
     "pydata-sphinx-theme>=0.16.1",
     "pylint>=3.3.7",
